@@ -51,7 +51,7 @@ follow these steps:
     launch **Android Studio > Tools > Android > AVD Manager** and select
     **Create Virtual Device...**. (The **Android** submenu is only present
     when inside an Android project.)
-    * If you do not have a project open, you can choose 
+    * If you do not have a project open, you can choose
     **Configure > AVD Manager** and select **Create Virtual Device...**
  1. Choose a device definition and select **Next**.
  1. Select one or more system images for the Android versions you want
